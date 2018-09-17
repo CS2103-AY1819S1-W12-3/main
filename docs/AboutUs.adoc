@@ -15,6 +15,7 @@ image::Koh_Jun_Wei.jpg[width="150", align="left"]
 {empty}[https://github.com/JunWei96[github]] [<<kohjunwei#, portfolio>>]
 
 Role: Developer
+
 '''
 
 === Ziheng Xiu
@@ -42,7 +43,7 @@ Role: Developer
 '''
 
 === Ho Zong Sien
-image::hozongsien.jpg[width="150", align="left"]
+image::lejolly.jpg[width="150", align="left"]
 {empty}[https://github.com/hozongsien[github]] [<<hozongsien#, portfolio>>]
 
 Role: Developer
