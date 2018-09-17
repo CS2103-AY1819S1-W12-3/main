@@ -27,7 +27,7 @@ Role: Developer
 '''
 
 === Chua Jun Hui
-image::yijinl.jpg[width="150", align="left"]
+image::Chua_Jun_Hui.jpg[width="150", align="left"]
 {empty}[https://github.com/junhui2778[github]] [<<chuajunwei#, portfolio>>]
 
 Role: Developer
@@ -35,7 +35,7 @@ Role: Developer
 '''
 
 === Shanice Abigal
-image::m133225.jpg[width="150", align="left"]
+image::Shanice_Abigal.jpg[width="150", align="left"]
 {empty}[https://github.com/shaniceabigail[github]] [<<shaniceabigal#, portfolio>>]
 
 Role: Developer
