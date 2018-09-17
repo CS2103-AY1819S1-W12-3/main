@@ -43,7 +43,7 @@ Role: Developer
 '''
 
 === Ho Zong Sien
-image::lejolly.jpg[width="150", align="left"]
+image::Ho_Zong_Sien.JPG[width="150", align="left"]
 {empty}[https://github.com/hozongsien[github]] [<<hozongsien#, portfolio>>]
 
 Role: Developer
