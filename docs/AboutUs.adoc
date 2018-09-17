@@ -19,7 +19,7 @@ Role: Developer
 '''
 
 === Ziheng Xiu
-image::lejolly.jpg[width="150", align="left"]
+image::Ziheng_Xiu.jpg[width="150", align="left"]
 {empty}[https://github.com/Cary-Xx[github]] [<<zihengxiu#, portfolio>>]
 
 Role: Developer
